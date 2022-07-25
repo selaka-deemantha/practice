@@ -1,1 +1,1 @@
-print(9999)
+print("this is main")
